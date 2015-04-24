@@ -1,0 +1,4 @@
+{
+"-x" : {"help": "Help message for x", "dest":"-x"}, 
+"-y" : {"help": "Help message for y", "dest":"-y"}
+}
